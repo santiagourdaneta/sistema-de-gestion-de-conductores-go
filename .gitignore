@@ -1,0 +1,24 @@
+# Binarios de Go
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Directorios de módulos
+/vendor/
+
+# Archivos de pruebas
+*.test
+
+# Archivos de depuración
+*.prof
+
+# Entornos de desarrollo
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Archivos temporales de editor
+*~
